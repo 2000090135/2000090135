@@ -1,1 +1,4 @@
-AGE:..19...
+AGE is 19
+AGE is 20
+AGE is 21
+AGE is 22
